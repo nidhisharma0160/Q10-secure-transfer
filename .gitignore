@@ -1,0 +1,8 @@
+.venv/
+__MACOSX/
+.DS_Store
+*.bin
+*.tmp
+*.key
+certs/
+received*
